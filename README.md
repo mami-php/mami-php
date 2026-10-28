@@ -1,4 +1,4 @@
-<a href="https://mukasoft.com.tr"><img src="./banner.svg" alt="Muhammet Şahin — Web siteleri ve işine özel yazılım. MukaSoft." width="100%" /></a>
+<a href="https://mukasoft.com.tr"><img src="./banner.svg?v=2" alt="Muhammet Şahin — Web siteleri ve işine özel yazılım. MukaSoft." width="100%" /></a>
 
 <p align="center">
   <a href="https://mukasoft.com.tr">MukaSoft</a>
