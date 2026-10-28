@@ -1,50 +1,49 @@
-<a href="https://mukasoft.com.tr"><img src="./banner.svg" alt="Muhammet Şahin — MukaSoft. Fikirleri çalışan ürünlere dönüştürüyorum." width="100%" /></a>
+<a href="https://mukasoft.com.tr"><img src="./banner.svg" alt="Muhammet Şahin — Web siteleri ve işine özel yazılım. MukaSoft." width="100%" /></a>
 
 <p align="center">
-  <a href="https://mukasoft.com.tr"><strong>MukaSoft</strong></a>
+  <a href="https://mukasoft.com.tr">MukaSoft</a>
   &nbsp; · &nbsp;
-  <a href="https://mukasoft.com.tr/calismalarimiz.php">Çalışmalar</a>
+  <a href="https://mukasoft-isletme-demo.onrender.com">İşletme Panelim demosu</a>
   &nbsp; · &nbsp;
-  <a href="https://mukasoft-isletme-demo.onrender.com">Canlı demo</a>
+  <a href="https://mukasoft.com.tr/iletisim.php">İletişim</a>
 </p>
 
-## Merhaba, ben Muhammet.
+## Selam, ben Muhammet.
 
-**MukaSoft** çatısı altında web uygulamaları ve işletmelere özel yönetim panelleri geliştiriyorum. Fikirlerin kullanılabilir bir arayüze, çalışan bir altyapıya ve denenebilir bir ürüne dönüşmesiyle ilgileniyorum.
+MukaSoft adıyla web siteleri ve kişiye ya da işletmeye özel yazılım geliştiriyorum. İhtiyaca göre bir projeyi sıfırdan kurup arayüzünü, altyapısını ve yönetim panelini hazırlıyorum.
 
-`Next.js` `React` `TypeScript` `Laravel` `Node.js` `SQL` `Docker`
+Android uygulamalar üzerinde de çalışıyorum. Bu tarafta kendimi geliştirmeye devam ediyorum; ağırlığım şimdilik web projelerinde.
 
-### Odaklandığım alanlar
+### Neler yapıyorum?
 
-- **Web uygulamaları:** kullanıcı deneyimi, mobil uyumlu arayüzler ve yönetim ekranları.
-- **İşletme araçları:** satış, ciro, gider takibi ve kullanıcı yetkilendirme.
-- **Yapay zekâ:** günlük iş akışlarına katkı sağlayan pratik entegrasyonlar.
+- Kurumsal ve kişisel web siteleri
+- İşletmeye özel yönetim panelleri ve takip sistemleri
+- İhtiyaca göre sıfırdan web uygulaması geliştirme
+- Web ve mobil arayüz geliştirme
 
-### Ürün vitrini · İşletme Panelim
+Genelde **Next.js, React, Laravel, Node.js ve SQL** ile çalışıyorum. Mobil projelerde **Firebase ve Capacitor** da kullanıyorum.
 
-Satışları, işletme giderlerini ve ciroyu tek panelde takip etmek için geliştirdiğim web uygulaması.
+### Geliştirdiğim birkaç proje
 
-| Müşteri paneli | Genel yönetim |
+| Proje | Ne işe yarıyor? |
 | --- | --- |
-| Satış girişi ve ödeme türleri | Müşteri çalışma alanları |
-| Günlük, haftalık ve aylık ciro raporları | Kullanıcı ve rol yönetimi |
-| Gider takibi ve CSV rapor çıktısı | Şifre sıfırlama ve abonelik erişimi |
+| **[İşletme Panelim](https://mukasoft-isletme-demo.onrender.com)** | İşletmelerin satış, ciro ve giderlerini takip ettiği web paneli. Müşteri, kullanıcı ve abonelik yönetimi için ayrı bir genel admin alanı da var. |
+| **QR Menü & Adisyon** | Restoranlar için QR menü, masa bazlı sipariş ve yönetim ekranları. |
+| **Tamamla** | Konum bazlı sosyal ve spor etkinliği uygulaması. Mobil tarafta geliştirdiğim projelerden biri. |
 
-**Node.js · Express · SQLite · JavaScript**
+#### İşletme Panelim'den bir ekran
 
-[**Demoyu incele →**](https://mukasoft-isletme-demo.onrender.com)
+<a href="https://mukasoft-isletme-demo.onrender.com"><img src="./showcase.png" alt="İşletme Panelim: günlük ciro, satışlar ve işletme özeti." width="100%" /></a>
 
-<a href="https://mukasoft-isletme-demo.onrender.com"><img src="./showcase.png" alt="İşletme Panelim demosu: ciro özeti, işletme kartları ve tahsilat dağılımı." width="100%" /></a>
+[**Demoyu aç →**](https://mukasoft-isletme-demo.onrender.com) · Girişte **Demo panelini keşfet** düğmesini kullanabilirsin.
 
 <details>
-<summary>Demo hakkında</summary>
+<summary>Demo için kısa not</summary>
 
-Giriş ekranındaki **Demo panelini keşfet** düğmesiyle örnek verileri inceleyebilirsiniz. Ücretsiz sunucu uykuya geçtiğinde ilk açılış gecikebilir; yeniden başlatıldığında eklenen deneme kayıtları sıfırlanabilir.
+Demo ücretsiz sunucuda çalışıyor. İlk açılış biraz bekletebilir; yeniden başlatıldığında deneme kayıtları sıfırlanabilir.
 
 </details>
 
 ---
 
-### Bir proje fikrin mi var?
-
-Web uygulaması veya işletmene özel bir yönetim paneli için [**MukaSoft'u ziyaret et →**](https://mukasoft.com.tr)
+Bir web sitesi ya da işine özel bir sistem gerekiyorsa, [**MukaSoft üzerinden bana ulaşabilirsin.**](https://mukasoft.com.tr/iletisim.php)
