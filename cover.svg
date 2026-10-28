@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammet Şahin — MukaSoft</title>
+  <desc id="desc">Web siteleri ve işine özel yazılım. Sıfırdan proje geliştirme.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12121b"/><stop offset="1" stop-color="#090a10"/></linearGradient>
+    <linearGradient id="purple" x2="1" y2="1"><stop stop-color="#b292ff"/><stop offset="1" stop-color="#7150d3"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#6941bc" stop-opacity=".24"/><stop offset="1" stop-color="#6941bc" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0v36" fill="none" stroke="#a387dc" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="16" fill="none" stroke="#34313f"/>
+  <rect x="844" y="1" width="355" height="358" rx="16" fill="url(#grid)"/>
+  <ellipse cx="1055" cy="135" rx="270" ry="260" fill="url(#light)"/>
+  <path d="M844 30v300" stroke="#464050" stroke-opacity=".5"/>
+  <rect x="54" y="44" width="4" height="16" rx="2" fill="url(#purple)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="72" y="57" fill="#c7bbdf" font-size="14" font-weight="600" letter-spacing="2.4">MUHAMMET ŞAHİN</text>
+    <text x="53" y="141" fill="#f5f3fa" font-size="55" font-weight="700" letter-spacing="-1.7">Web siteleri.</text>
+    <text x="53" y="204" fill="#f5f3fa" font-size="55" font-weight="700" letter-spacing="-1.7">İşine özel yazılım.</text>
+    <text x="56" y="247" fill="#96929f" font-size="17">Sıfırdan proje geliştirme · Yönetim panelleri</text>
+    <path d="M56 281h730" stroke="#302b3b"/>
+    <text x="56" y="317" fill="#b799ee" font-size="12" font-weight="600" letter-spacing="2">MUKASOFT</text>
+    <text x="176" y="317" fill="#706c7c" font-size="12">mukasoft.com.tr</text>
+    <text x="894" y="124" fill="#e8e3f3" font-size="43" font-weight="700" letter-spacing="-1">MUKA</text>
+    <text x="894" y="171" fill="url(#purple)" font-size="43" font-weight="700" letter-spacing="-1">SOFT.</text>
+    <text x="896" y="221" fill="#9a91ac" font-size="12" letter-spacing="1.5">WEB / YAZILIM</text>
+    <path d="M896 245h240" stroke="#36303f"/>
+    <text x="896" y="278" fill="#7b738b" font-size="12">İhtiyacına göre.</text>
+    <text x="896" y="299" fill="#7b738b" font-size="12">Sıfırdan.</text>
+  </g>
+</svg>
